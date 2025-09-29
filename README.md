@@ -7,4 +7,4 @@ Hello world!
 [![Releases](https://img.shields.io/github/release/LukeBibby23/devops/all.svg?style=flat-square)](https://github.com/LukeBibby23/devops/releases)
 
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/<username>/<repository>/<action name taken from main.yml>/<branch>?style=flat-square)
+https://img.shields.io/github/actions/workflow/status/LukeBibby23/devops/main.yml
