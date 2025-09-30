@@ -5,3 +5,6 @@ Hello world!
 [![LICENSE](https://img.shields.io/github/license/LukeBibby23/devops.svg?style=flat-square)](https://github.com/LukeBibby23/devops/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/LukeBibby23/devops/all.svg?style=flat-square)](https://github.com/LukeBibby23/devops/releases)
+
+# DevOps
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/LukeBibby23/devops/main.yml)
